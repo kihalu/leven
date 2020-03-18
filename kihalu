@@ -1,5 +1,0 @@
-git clone https://github.com/EvilCult/iptv-m3u-maker.git
-
-cd iptv-m3u-maker/python
-
-python iptv.py
